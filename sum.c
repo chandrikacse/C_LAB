@@ -33,7 +33,7 @@ int main()
               if(b!=0)
               {
                    res=a/b;
-                   printf("Result=%d", res");
+                   printf("Result=%d", res);
               }
               else
               {
