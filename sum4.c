@@ -29,6 +29,13 @@ int main()
    return 0; 
 } 
 
+//output
+Enter a number:5
+Numbers from 1 to 5:
+1 2 3 4 5
+Sum of numbers=15
+Factorial of 5=120
+
 
 
 
