@@ -12,7 +12,7 @@ int main()
   printf("\nFactorial of%d=%d",n,fact);
   return 0;
 }
-int squae(int n)
+int square(int n)
 {
   int res;
   res=n*n;
