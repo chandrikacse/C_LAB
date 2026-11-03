@@ -33,7 +33,7 @@ int main()
     }
   }
   printf("\n2D Array Elements:\n");
-  for(i=0;i<rows;i++);
+  for(i=0;i<rows;i++)
   {
     for(j=0;j<cols;j++)
     {
