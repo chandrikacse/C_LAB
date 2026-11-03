@@ -16,7 +16,7 @@ int main()
   printf("\n1D Array Elements:\n");
   for(i=0;i<n;i++)
   {
-    printf("%d",a[i]);
+    printf("%d ",a[i]);
     sum1=sum1 + a[i];
   }
   printf("\nSum of 1D Array=%d",sum1);
