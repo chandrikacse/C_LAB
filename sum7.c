@@ -23,9 +23,9 @@ int main()
 }
 
 //output
-//Enter the first string:Hello
-//Enter the second string:World
-//Length of first string=5
-//Copied string=Hello
+//Enter the first string: Hello
+//Enter the second string: World
+//Length of first string = 5
+//Copied string = Hello
 //Both strings are not equal
-//Concatenated string=Hello World
+//Concatenated string = HelloWorld
